@@ -1,12 +1,12 @@
 
 import java.util.Scanner;
 
-//1.Write a program that does the following:
+//        Write a program that does the following:
 //        Asks the user for 5 numbers
 //        Stores them in an array list
 //        Finds the sum, product, largest, and smallest of those numbers
 
-public class Solution {
+public class SolutionTask1 {
 
 
     public static void main(String[] args) {
