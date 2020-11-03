@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day-1-Data-Types" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Find-Missing-Number-From-Series-Array-in-Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hackerrank-Day-0-hello-world" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-algorithms-checkpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-classes-checkpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-classes-checkpoint-calls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-commandline-arguments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-exceptions-checkpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-intro-checkpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-intro-junit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-language-checkpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-organization-checkpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-playground" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/partner-task-github-checkpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/throw-a-custom-exception-task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/try-catch-task" vcs="Git" />
+  </component>
+</project>
